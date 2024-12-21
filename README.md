@@ -22,11 +22,11 @@
 ---
 
 ## 🌟 Projects  
-### 🕹️ [Flag Ball](https://github.com/dinhkhanh123/flag-ball)
+### 🕹️ [Flag Ball](https://github.com/dinhkhanh1803/flag-ball)
 **Description**: Control ball movements and physics using drag mechanics.  
 **Tech Stack**: Unity, C#  
 
-### 👜 [KatShop](https://github.com/dinhkhanh123/katshop)
+### 👜 [KatShop](https://github.com/dinhkhanh1803/katshop)
 **Description**: E-commerce website for handbags with VNPay integration.  
 **Tech Stack**: ASP.NET MVC, C#, SQL  
 
@@ -43,7 +43,7 @@
 ## 📫 Contact Me  
 - 📧 **Email**: [khanhtrandinh1803@gmail.com](mailto:khanhtrandinh1803@gmail.com)  
 - 📞 **Phone**: +84 915 368 545  
-- 🌐 [Portfolio](https://dinhkhanh123.github.io/portfolio)  
+- 🌐 [Portfolio](https://dinhkhanh1803.github.io/portfolio)  
 
 ---
 
