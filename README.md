@@ -1,6 +1,6 @@
 # 👾 Trần Đình Khánh | Game Developer 🎮  
 
-![Header](https://i.imgur.com/dgF2Tmg.gif)
+![Header](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmJtNzVyZ3N1emx0endmZ3EydDZlMjZiM2Z3NXdpbDdjZm80cWc0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1ylOHgLDKw7eD8WgoB/giphy.gif)
 
 🌟 **"Designing immersive worlds, one game at a time."** 🌟  
 
@@ -49,4 +49,4 @@
 
 > **"Games are not just fun; they’re worlds to explore, challenges to conquer, and stories to live."**
 
-![Footer](https://i.imgur.com/z25G8bo.gif)
+![Footer](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3JuOXd4dmFwZnM1bmh0c3Vsb2JpcWxmcWs4amlmYTRjMjJ5dWw4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif)
