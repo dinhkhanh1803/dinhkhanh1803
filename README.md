@@ -42,7 +42,7 @@
 
 ## 📫 Contact Me  
 - 📧 **Email**: [khanhtrandinh1803@gmail.com](mailto:khanhtrandinh1803@gmail.com)  
-- 📞 **Phone**: +84 915 368 545  
+- 📞 **Phone**: +84 915 *** ***  
 - 🌐 [Portfolio](https://dinhkhanh1803.github.io/portfolio)  
 
 ---
