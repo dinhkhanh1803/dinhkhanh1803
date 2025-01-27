@@ -13,11 +13,11 @@
 ---
 
 ## 🛠️ Skills & Tools  
-- **Languages**: C#, JavaScript, Python  
+- **Languages**: C#, JavaScript, TypeScript, HTML  
 - **Game Engines**: Unity, Pixi Engine (basic)  
 - **Technologies**: .NET, MVC, REST APIs  
 - **Tools**: Git, Blender, Photoshop  
-- **Design Patterns**: Singleton, Observer, Factory  
+- **Design Patterns**: Singleton, ObjectPool, Factory  
 
 ---
 
@@ -34,9 +34,9 @@
 
 ## 📊 GitHub Stats  
 
-![Trần Đình Khánh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dinhkhanh123&show_icons=true&theme=radical)
+![Trần Đình Khánh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dinhkhanh1803&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dinhkhanh123&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dinhkhanh1803&layout=compact&theme=radical)
 
 ---
 
